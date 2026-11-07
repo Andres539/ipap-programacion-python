@@ -1,0 +1,24 @@
+[
+    {
+        "codigo": "PS001",
+        "nombre": "Panel Solar Hogar",
+        "precio": 500,
+        "stock": 10,
+        "potencia_kw": 5,
+        "eficiencia": 21.5
+    },
+    {
+        "codigo": "PS002",
+        "nombre": "Panel Solar Industrial",
+        "precio": 1500,
+        "stock": 20,
+        "potencia_kw": 10,
+        "eficiencia": 20
+    },
+    {
+        "codigo": "DE001",
+        "nombre": "Controlador de Energia",
+        "precio": 800,
+        "stock": 15
+    }
+]
